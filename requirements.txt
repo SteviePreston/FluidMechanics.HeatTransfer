@@ -1,4 +1,3 @@
-tk
-CoolProp
-matplotlib
-pandas
+CoolProp==6.6.0
+matplotlib==3.9.3
+pandas==2.2.3
